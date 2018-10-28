@@ -6,9 +6,11 @@ Many people like to keep a journal electronically, to avoid the fuss of carrying
 
 ## Questions to answer for Exercise #2
 1. Name: Give your project proposal a name (and edit the top line of this file)
+
 "Searchable Journal"
 
 2. Output: Describe the output your program will produce.  Include an example format of the output produced.
+
 Our program will have two types of output.  The first will simply be the text of the journal entry they've previously inputed, and the second will be a list of journal entries that contain the keyword the user searched for.  In the second type of output, the user will be able to click on the search results to navigate directly to the journal entry it represents.
  
 Example output 1 format:
@@ -26,6 +28,7 @@ Example output 2 format:
 ...
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+
 To input a journal entry, the user will input a string of text to be used at the journal entry's title and a string of text that is the body of the journal entry.  
 
 Example:
@@ -38,6 +41,7 @@ Search Keyword: "cereal"
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+
 Our program will use a simple GUI.  The main screen will be a scrollable listing (descending by date) of all the journal entries the user has inputted previously.  Clicking on any of these entries will pull up a screen devoted to the text-body of the journal entry.  The main screen will also have a button that says "search",  clicking this button will move the user to a search screen where they will be prompted to enter a search keyword.  Once they enter the keyword, a scrollable list of all journal entries that match the user's keyword (also ordered descending by date) will be outputed to the screen. Similarly to the main screen, clicking on any of these journal entries will navigate to a screen devoted to the text-body of that journal entry.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
