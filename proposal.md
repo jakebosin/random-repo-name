@@ -1,72 +1,44 @@
 # X-Team 115 Project Proposal: Searchable Journal
 
-See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
-
-## Goal
-
-Work as a team to create a project proposal for your X-team to complete together.
-The project does not have to be extremely difficult,
-but there must be work to do for each member of your team.
-You may reference figures using "See figure 1".  
-Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) for each figure.
-
-## Grading: To earn full credit, your team's proposal must include:
-
-* (md) documentation: [this file] describing purpose and use of your program
-
-* Description of a program that has:
-
-  ** a main Java program class in a file named Main.java
-  
-  ** a custom data structure designed and built by your team
-  
-  ** comprehensive testing of individual units
-  
- Caution: You are not being asked to implement this program, at least not yet. 
- We just want your group to make a proposal or pitch for your program.
- 
- Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
-
 ## Problem Description
 
 Many people like to keep a journal electronically, to avoid the fuss of carrying a paper journal around everywhere.  Electronic Journals also have the advantage of being searchable, so a user can search the journal for key words to quickly find something they've written.  Our program will implement an electronic journal with keyword-search functionality to provide our users with these advantages.
 
 ## Questions to answer for Exercise #2
-
 1. Name: Give your project proposal a name (and edit the top line of this file)
- "Searchable Journal"
+"Searchable Journal"
 
 2. Output: Describe the output your program will produce.  Include an example format of the output produced.
- Our program will have two types of output.  The first will simply be the text of the journal entry they've previously inputed, and the second will be a list of journal entries that contain the keyword the user searched for.  In the second type of output, the user will be able to click on the search results to navigate directly to the journal entry it represents.
+Our program will have two types of output.  The first will simply be the text of the journal entry they've previously inputed, and the second will be a list of journal entries that contain the keyword the user searched for.  In the second type of output, the user will be able to click on the search results to navigate directly to the journal entry it represents.
  
- Example output 1 format:
- <Journal Entry Title>
- <Journal Entry Date>
+Example output 1 format:
+<Journal Entry Title>
+<Journal Entry Date>
   
-  <Journal Entry Main Text Body>
+<Journal Entry Main Text Body>
  
- Example output 2 format:
- <search keyword inputted by the user>
+Example output 2 format:
+<search keyword inputted by the user>
  
- <Journal Entry 1 containing the keyword>
- <Journal Entry 2 containing the keyword>
- <Journal Entry 3 containing the keyword>
- ...
+<Journal Entry 1 containing the keyword>
+<Journal Entry 2 containing the keyword>
+<Journal Entry 3 containing the keyword>
+...
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
- To enter in a journal entry, the user will input a string of text to be used at the journal Entry's title and a string of text that is the body of the journal entry.  
- Example:
- Title: "A great day"
- Body: "Today I at 15 bowls of cereal."
+To input a journal entry, the user will input a string of text to be used at the journal entry's title and a string of text that is the body of the journal entry.  
+
+Example:
+Title: "A great day"
+Body: "Today I at 15 bowls of cereal."
  
- When searching for a journal entry containing a specific keywork, the user will enter the keyword they are searching for
- Example:
- Search Keyword: "cereal"
+When searching for a journal entry containing a specific keyword, the user will enter the keyword they are searching for
+Example:
+Search Keyword: "cereal"
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 Our program will use a simple GUI.  The main screen will be a scrollable listing (descending by date) of all the journal entries the user has inputted previously.  Clicking on any of these entries will pull up a screen devoted to the text-body of the journal entry.  The main screen will also have a button that says "search",  clicking this button will move the user to a search screen where they will be prompted to enter a search keyword.  Once they enter the keyword, a scrollable list of all journal entries that match the user's keyword (also ordered descending by date) will be outputed to the screen. Similarly to the main screen, clicking on any of these journal entries will navigate to a screen devoted to the text-body of that journal entry.
-
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 Name each interface or class and briefly describe its function or purpose.
