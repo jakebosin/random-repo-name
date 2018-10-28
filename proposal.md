@@ -42,7 +42,7 @@ Title: "A great day"
 
 Body: "Today I at 15 bowls of cereal."
  
-When searching for a journal entry containing a specific keyword, the user will enter the keyword they are searching for
+When searching for a journal entry containing a specific keyword, the user will enter the keyword they are searching for.
 
 Example:
 
