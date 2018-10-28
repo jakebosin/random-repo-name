@@ -11,7 +11,8 @@ and missed deadlines.
 ## How we will assign (and reassign) tasks
 We will communcate through texting and calling. 
 We will go to lecture and can discuss meetings times there as well. 
-We will be sure to be good communcators to avoid confusion. 
+We will be sure to be good communcators to avoid confusion.
+We will regularly check github and complete tasks of the project as we go along. 
 ## How will we will track progress (and follow-up) on completion of tasks
 We will regularly check git hub to make sure tasks are being completed.
 We will meet up and work on aspects of the project togehter to make sure they are being done correctly. 
