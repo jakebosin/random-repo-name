@@ -67,7 +67,3 @@ Journal.java
 
 HashTable.java
  This will be a hash table (to be used to optimize the search functionality) where the key will be a single word and the value will be a list of all the journal entries that contain that word.
-
-
-## Edit and Submit this file and any figures referenced by this document.
-
