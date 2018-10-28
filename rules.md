@@ -27,6 +27,6 @@ We will meet in advance to give us multiple days to complete assignments/meet de
 We will communicate properly and set designated times to meet. 
 We will work together and have assigned time to work on the project together. 
 ## Add any other rules that your team establishes to help each other work effectively together
-We will communicate well and cordinate times where everyone can meet. 
+We will communicate well and coordinate times where everyone can meet. 
 We will work in advance to avoid missing deadlines. 
 We will go to lecture and stay on top of material to help us with our project efficiency. 
