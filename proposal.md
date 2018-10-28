@@ -14,17 +14,22 @@ Many people like to keep a journal electronically, to avoid the fuss of carrying
 Our program will have two types of output.  The first will simply be the text of the journal entry they've previously inputed, and the second will be a list of journal entries that contain the keyword the user searched for.  In the second type of output, the user will be able to click on the search results to navigate directly to the journal entry it represents.
  
 Example output 1 format:
-<Journal Entry Title>
-<Journal Entry Date>
+
+(Journal Entry Title)
+
+(Journal Entry Date)
   
-<Journal Entry Main Text Body>
+(Journal Entry Main Text Body)
  
 Example output 2 format:
-<search keyword inputted by the user>
+
+(search keyword inputted by the user)
  
-<Journal Entry 1 containing the keyword>
-<Journal Entry 2 containing the keyword>
-<Journal Entry 3 containing the keyword>
+(Journal Entry 1 containing the keyword)
+
+(Journal Entry 2 containing the keyword)
+
+(Journal Entry 3 containing the keyword)
 ...
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
@@ -32,11 +37,15 @@ Example output 2 format:
 To input a journal entry, the user will input a string of text to be used at the journal entry's title and a string of text that is the body of the journal entry.  
 
 Example:
+
 Title: "A great day"
+
 Body: "Today I at 15 bowls of cereal."
  
 When searching for a journal entry containing a specific keyword, the user will enter the keyword they are searching for
+
 Example:
+
 Search Keyword: "cereal"
 
 
