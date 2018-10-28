@@ -9,16 +9,16 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-We will communcate through texting and calling. 
+We will communicate through texting and calling. 
 We will go to lecture and can discuss meetings times there as well. 
-We will be sure to be good communcators to avoid confusion.
-We will regularly check github and complete tasks of the project as we go along. 
+We will be sure to be good communicators to avoid confusion.
+We will regularly check git hub and complete tasks of the project as we go along. 
 ## How will we will track progress (and follow-up) on completion of tasks
 We will regularly check git hub to make sure tasks are being completed.
-We will meet up and work on aspects of the project togehter to make sure they are being done correctly. 
+We will meet up and work on aspects of the project together to make sure they are being done correctly. 
 We will help each other with aspects of our tasks to make sure everyone is happy with the results of someones work. 
 ## How will will communicate difficulties with a task assigned to us
-We will communcate through texting and calling. 
+We will communicate through texting and calling. 
 We will go into TA's office hours as necessary and ask them for guidance.
 If required we will go in and talk to the professor about our proposal/assignments/tasks. 
 ## How we will back up each other to ensure that deadlines are not missed
